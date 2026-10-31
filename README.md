@@ -16,19 +16,6 @@ tools for graphics, VFX, games, filmmaking, and real-time content creation.
 - Real-time graphics and interactive tools
 - AI-assisted VFX and game development
 
-## Featured Work
-
-### Project Name
-
-A short sentence explaining what the project does and why it matters.
-
-`Computer Graphics` `AI` `Python` `C++`
-
-### Project Name
-
-A practical tool or experiment related to computer vision, VFX, Unreal,
-game development, or generative AI.
-
 ## Background
 
 My background spans VFX compositing, Unreal Engine virtual production,
@@ -37,15 +24,6 @@ and AI research in computer graphics.
 This combination helps me approach AI not only as a research problem,
 but also as a practical tool for artists, engineers, and creators.
 
-## Notes & Experiments
-
-I use this space to document:
-
-- Research paper implementations
-- Technical prototypes
-- Graphics experiments
-- Engineering notes
-- Creative coding projects
 
 ## Interests
 
