@@ -24,7 +24,6 @@ and AI research in computer graphics.
 This combination helps me approach AI not only as a research problem,
 but also as a practical tool for artists, engineers, and creators.
 
-
 ## Interests
 
 📷 Photography  
@@ -33,8 +32,4 @@ but also as a practical tool for artists, engineers, and creators.
 🧠 AI and computer graphics  
 🛠️ Independent tools and products  
 
-## Connect
 
-- Website
-- LinkedIn
-- Email
